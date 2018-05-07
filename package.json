@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "name": "appcrack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "andy",
+  "license": "ISC",
+  "description": ""
+}
